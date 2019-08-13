@@ -22,7 +22,7 @@ public class ApiUtil {
     public static final String BASE_API_UTIL =
             "https://www.googleapis.com/books/v1/volumes";
     public static final String KEY = "key=";
-    public static final String API_KEY = "AIzaSyBf58rPdOkZt9-z9ODwa24NNh-0eQS_oVQ";
+    public static final String API_KEY = "your sha-1 key here";
     public static final String TITLE = "intitle:";
     public static final String AUTHOR = "inauthor:";
     public static final String PUBLISHER = "inpublisher:";
